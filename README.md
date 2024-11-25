@@ -7,7 +7,7 @@
   EIN and NAME should be removed since these data points has no impact on the model
 
   Layers:
-  Total of 3 layers in your model:
+  Total of 3 layers in the model:
   Input Layer: This is implicitly defined by the input dimension specified in the first hidden layer.
   First Hidden Layer: This contains 100 neurons.
   Second Hidden Layer: This contains 50 neurons.
